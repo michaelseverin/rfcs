@@ -40,6 +40,9 @@ Reason: Continuous system optimization for collective benefit
 ### Modular Grid System
 Reason: Make physical modules/components fit together, in a simple conform way.
 
+### Open Source Philosophy with personal freedom of ownership
+Reason: Your data is yours only. Share if you want to.
+
 # Drawbacks
 [drawbacks]: #drawbacks
 
